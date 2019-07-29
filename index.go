@@ -1,4 +1,4 @@
-package gotest
+package main
 
 import (
 	"fmt";
@@ -6,5 +6,5 @@ import (
 
 func main() {
 
-	fmt.PrintLn("haha");
+	fmt.Println("haha");
 }
